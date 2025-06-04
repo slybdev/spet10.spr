@@ -1,4 +1,4 @@
-![Screenshot 2025-06-04 204216](https://github.com/user-attachments/assets/73710db5-69aa-4b4a-86ad-a95fd00c4839)# 🧪 [CTF] Dridex Malware Infection Analysis - SOC Challenge
+# 🧪 [CTF] Dridex Malware Infection Analysis - SOC Challenge
 
 **Date Completed:** June 4, 2025  
 **Role Simulated:** SOC Analyst  
